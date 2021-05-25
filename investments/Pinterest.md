@@ -2,9 +2,9 @@
 
 ![image](https://user-images.githubusercontent.com/37036296/119455706-b6338480-bcee-11eb-9dda-664b84bb0414.png)
 
-2.1. Investing in Internet Forums
-2.2. Search
-2.3. Search Engine Optimization
+- 2.1. Investing in Internet Forums
+- 2.2. Search
+- 2.3. Search Engine Optimization
 
 There is a distinction between social media platforms and personal media platforms. One could imagine that this relationship is somewhat of a spectrum, where Twitter is closer to the end of social media, while platforms like Pinterest sit on the opposite end in the personal media space.
 
