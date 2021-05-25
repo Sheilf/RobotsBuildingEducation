@@ -1,8 +1,10 @@
-# 3. Pinterest - On Social Networks
+# 2. Pinterest - On Social Networks
 
-3.1. Investing in Internet Forums
-3.2. Search
-3.3. Search Engine Optimization
+![image](https://user-images.githubusercontent.com/37036296/119455706-b6338480-bcee-11eb-9dda-664b84bb0414.png)
+
+2.1. Investing in Internet Forums
+2.2. Search
+2.3. Search Engine Optimization
 
 There is a distinction between social media platforms and personal media platforms. One could imagine that this relationship is somewhat of a spectrum, where Twitter is closer to the end of social media, while platforms like Pinterest sit on the opposite end in the personal media space.
 
@@ -12,10 +14,12 @@ It's important to understand this distinction when investing in internet forums 
 
 Is Pinterest a social media platform or is it a search service?
 
-## 3.1. Investing in Internet Forums
+## 3.2. Investing in Internet Forums
 Let’s keep one question in mind: Did Facebook’s implementation of a hashtag kill Twitter?
 
 What drives a social-networking site is a user’s incentive to search or discover information in that particular forum. As a result, examining social-networking sites can be a lot like comparing shopping centers, such that a shopper is incentivized to go to a location for a particular reason that is served by that institution. Pinterest uses pins, Reddit uses subreddits, and Google uses links - all having unique advantages as a means to distribute information.
+
+![image](https://user-images.githubusercontent.com/37036296/119455311-53da8400-bcee-11eb-8ea4-d538be6f29d2.png)
 
 The forum may take on a different medium, but it is ultimately a forum none the less. If we try to categorize it rough a forum's shopping center would look like this:
 - Google is fueled by user’s need for answered information.
@@ -23,6 +27,9 @@ The forum may take on a different medium, but it is ultimately a forum none the 
 - Pinterest is fueled by a user’s need for ideas.
 - Reddit is fueled by a user’s need for community.
 - Online video games are fueled by a user’s need for adventure.
+
+![image](https://user-images.githubusercontent.com/37036296/119455776-c9465480-bcee-11eb-8939-5d8b8194a8dd.png)
+
 
 With this basic model, you can argue which forum may be most valuable. In my view, it ranks like this, where the top rank is the most inelastic due to human behavior:
 1. Google (need for information)
@@ -37,16 +44,22 @@ I believe that people really underestimate how quickly humans find new ways to c
 
 
 
-## 3.2. Search
+## 2.2. Search
 
 Searching
 Consider this economic relationship:  what are the demographics of male underwear shoppers and who do male underwear brands market to? Women. Why?
 
 The network-effect that built Pinterest has mostly been driven by women across all social-economic statuses, resulting in  profound economic consequences across global households. What this ultimately results in word-of-mouth adoption, where families learn how to use Pinterest as a tool and search engine for ideas, rather than an application to connect with friends or family. As a result, Pinterest’s recommendation model is geared to advertise to women-influenced interests, which we will touch on shortly.
 
+![image](https://user-images.githubusercontent.com/37036296/119456747-d6177800-bcef-11eb-9772-30c2fcfaff37.png)
+
+
 What this means is that Pinterest is closer to the adoption of applications like YouTube or even Reddit in some cases, where users aren't necessarily sharing their profiles with friends and use the applications to search for information that they find meaningful to them. In the same way that a user on Reddit searches for a group's opinion, or a YouTube customer searches for tutorials, Pinterest is used to generate and discover ideas.
 
 This has long-term positive consequences for product advertisers regardless of culture - which is exactly why Pinterest is performing remarkably well with international user adoption, while most of the American customers have already been effectively registered, where nearly 100 million American women are monthly active users. 
+
+![image](https://user-images.githubusercontent.com/37036296/119456800-e2033a00-bcef-11eb-898d-d30f2b1ed1b4.png)
+
 
 You can try it yourself to understand; it feels like what you wish Google Images to do for you at times:
 - Recipe, Exercise, and Diet ideas (Peloton)
@@ -56,12 +69,20 @@ You can try it yourself to understand; it feels like what you wish Google Images
 - Home construction (Sherwin-Williams, James hardie)
 - Omnichannel support from places like TikTok, Zoom, Etsy
 
+![image](https://user-images.githubusercontent.com/37036296/119456898-f6dfcd80-bcef-11eb-83d5-d0d8a83889eb.png)
+
 
 These are customers voluntarily searching for ads. Behaviorally, this means that Pinterest’s customers are in a “high willingness to engage” with things that result in “action”. That is, a Pinterest user is logging in because they need to start, plan, and consume something in the near future. Customers do not need to be influenced into a product when the customer is coming onto the application with completely different expectations and incentives to search and shop. This is basically a sweet spot for advertisers, as they know they’re getting top "real estate" on BOTH Google and Pinterest as a result of Pinterest's product design.
 
+![image](https://user-images.githubusercontent.com/37036296/119457290-5d64eb80-bcf0-11eb-9687-6e546f4dd18d.png)
+
+
 Pinterest users have an incredibly high willingness to engage as a function of using the social platform as a useful tool above all else. This willingness to engage inevitably translates into a willingness to pay. Pinterest was not designed to make a user spend hours mindlessly scrolling for content to discover random nuggets of entertainment. It was designed to make a sale and keep a customer happy outside of Pinterest so that the customer develops a positive relationship with the tool. That is fundamentally different than Facebook’s connect-everything approach to social-networking.
 
-## 3.3. Search Engine Optimization
+## 2.3. Search Engine Optimization
+
+![image](https://user-images.githubusercontent.com/37036296/119456863-efb8bf80-bcef-11eb-99e4-945b41179da5.png)
+
 
 You may wonder why Pinterest essentially dominates the Google Images real estate when searching for particular images. This is a pretty complicated question to answer since the search engine optimization market is relatively new. As a rule of thumb, try to imagine that Google Search is more or less "the web" where website links are to Google what subreddits are to Reddit. 
 
@@ -75,3 +96,6 @@ Why is Google doing this? Because they want high web standards as a global compe
 I totally love the fact that the network-effect behind Pinterest is built by women, but not necessarily for women. I am carefully monitoring the results of this network-effect as I believe that it will have long-term consequences on family life which is one of the most inelastic markets to breech. I feel that this kind of product design will eventually create a deeper gravity for advertisers, where they know that Pinterest customers are essentially sustainable top-dollar advertising spaces since users are looking directly to consume as a result of their usage which is far different than other social-media platform strategies with influencing.
 
 I use Facebook and Instagram every day, resulting in nothing. I use Pinterest a few times a month at most. The difference is, every time I use Pinterest - I follow up or plan to follow up with some consumer behavior. This is why Facebook is concerned with daily active users while Pinterest is centrally focused on its monthly active userbase. That, to me, is incredible.
+
+![image](https://user-images.githubusercontent.com/37036296/119456962-065f1680-bcf0-11eb-932d-6716da33f43b.png)
+
