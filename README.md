@@ -38,6 +38,3 @@
 
 ### Chapter 9 - Oatly and the Plant-based Diet
 1. A Conversation on Suffering
-
-
-
