@@ -40,7 +40,7 @@ With this basic model, you can argue which forum may be most valuable. In my vie
 4. Pinterest (need for ideas)
 5. Facebook (need to connect)
 
-I believe that people really underestimate how quickly humans find new ways to connect and can move to another platform for connection; which is also quite a common occurrence in online gaming.  The reason I rank Facebook as one of the weakest long-term relationships is because we have witnessed multiple transformations in the connection space, while the company has had to take advantage of early acquisitions to essentially escape death through WhatsApp and Instagram. Even today, we see attempts by Facebook to enter markets in children, workspace, groups, and shopping as a means to resist consumer behavior changes made organizations like TikTok, Discord, Roblox, Slack, and Pinterest. Instagram entered Shops to compete with Pinterest, not Amazon.
+I believe that people really underestimate how quickly humans find new ways to connect and can move to another platform for connection; which is also quite a common occurrence in online gaming.  The reason I rank Facebook as one of the weakest long-term relationships is because we have witnessed multiple transformations in the connection space, while the company has had to take advantage of early acquisitions to essentially escape death through WhatsApp and Instagram. Even today, we see attempts by Facebook to enter markets in children, workspace, groups, and shopping as a means to resist consumer behavior changes made by organizations like TikTok, Discord, Roblox, Slack, and Pinterest. Instagram entered Shops to compete with Pinterest, not Amazon.
 
 ![image](https://user-images.githubusercontent.com/37036296/118084767-1aad2600-b376-11eb-9cc1-e5b96c371da2.png)
 
