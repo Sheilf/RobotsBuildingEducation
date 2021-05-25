@@ -14,4 +14,4 @@ If I were to highlight some of my main views on the world, it would be the follo
 
 3.  The most important element to investing is understanding consumer behavior and the incentives that drive those behaviors.
 
-4. My principles for investing are derived from Charlie Munger and Warren Buffet, and I believe they are the best resources for understanding what it means to be an intelligent investor.
+4. My principles for investing are derived from Charlie Munger and Warren Buffet, and I believe they are the best resources for understanding what it means to be an intelligent investor. I highly reccommend to spend a significant amount of time listening to these two as it is a privilege to effectively listen to some of the most legendary philosophers on the subject.
