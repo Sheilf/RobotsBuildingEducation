@@ -16,7 +16,7 @@ It's important to understand this distinction when investing in internet forums 
 
 Is Pinterest a social media platform or is it a search service?
 
-## 3.2. Investing in Internet Forums
+## 2.2. Investing in Internet Forums
 Let’s keep one question in mind: Did Facebook’s implementation of a hashtag kill Twitter?
 
 What drives a social-networking site is a user’s incentive to search or discover information in that particular forum. As a result, examining social-networking sites can be a lot like comparing shopping centers, such that a shopper is incentivized to go to a location for a particular reason that is best served by that institution. Pinterest uses pins, Reddit uses subreddits, and Google uses links - all having unique advantages as a means to distribute information.
