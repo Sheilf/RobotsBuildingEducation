@@ -1,34 +1,42 @@
 # On Investments In The Early Information Age
 
-1. TL;DR
-2. Purpose
-3. Pinterest - On Social Networks
-3.1.  Investing in Internet Forums
-3.2.  Searching
-3.3.  Search Engine Optimization
-4. Square - On Banking as a Service
-4.1 The Fundamental Constraint
-4.2 The Underbanked
-4.3 Equitable Markets
-5. Fastly - On The Event Driven Network
-5.1. Cloudflare vs. Fastly Overview
-5.2. Content Delivery Networks
-5.3. Serverless Computing - The Event Driven Network
-6. Kansas City Southern - On North American Trade
-6.1. The USMCA
-6.2. Mexico
-6.3. The Intercontinental Railroad
-7. Autodesk - On Sustainable Employment
-7.1. The Employment Problem
-7.2. The Education Solution
-7.3. Autodesk’s Role
-8. Roblox - On Gaming’s Role in Modern Education
-8.1. Heutagogic Learning
-8.2. STEAM Pedagogy
-8.3. Roblox Vision
-9. Gamestop - On Customer Service
-9.1. Real Estate as a Function of Customer Service
-9.2. Know Your Audience
+## Chapter 1 - Purpose
+1. My View of the World
+2. Considerations
+3. Reccommendations For Your First Investment
+
+## Chapter 2 - Pinterest and the Social Network
+1. Investing in Internet Forums
+2. Searching
+3. Search Engine Optomization
+
+## Chapter 3 - Square and the Digital Bank
+1. The Fundamental Constraint
+2. The Underbanked
+3. Equitable Banking
+
+## Chapter 4 - Autodesk and the Digital Artist
+1. The Employment Problem
+2. The Education Solution
+3. Autodesk's Role
+
+## Chapter 5 - Roblox and the Virtual Educator
+1. Heutagogic Learning
+2. STEAM Pedagogy
+3. Roblox Vision
+
+## Chapter 6 - Fastly and the Event-Driven Network
+1. What Fastly Is and Is Not
+2. Content Delivery Networks
+3. Serverless Computing
+
+## Chapter 7 - Gamestop and Customer Service
+1. Real Estate as a Function of Service
+2. Know Your Audience
+
+## Chapter 8 - Kansas City Southern and Mexico's Role In The World Economy
 
 
-# Chapter 1 - On Pinterest & The Internet Forum
+## Chapter 9 - Oatly and the Plant-based Diet
+1. A Conversation on Suffering
+
