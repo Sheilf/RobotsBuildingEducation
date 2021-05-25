@@ -35,8 +35,12 @@
 2. Know Your Audience
 
 ## Chapter 8 - Kansas City Southern and Mexico's Role In The World Economy
-
+1. The USMCA
+2. Mexico
+3. The Intercontinental Railroad
 
 ## Chapter 9 - Oatly and the Plant-based Diet
 1. A Conversation on Suffering
+
+
 
