@@ -1,9 +1,6 @@
 # On Investments In The Early Information Age
 
 ### Chapter 1 - Purpose
-1. My View of the World
-2. Considerations
-3. Reccommendations For Your First Investment
 
 ### Chapter 2 - Pinterest and the Social Network
 1. Investing in Internet Forums
