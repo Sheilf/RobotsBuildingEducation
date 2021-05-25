@@ -48,7 +48,6 @@ I believe that people really underestimate how quickly humans find new ways to c
 
 ## 2.2. Search
 
-Searching
 Consider this economic relationship:  what are the demographics of male underwear shoppers and who do male underwear brands market to? Women. Why?
 
 The network-effect that built Pinterest has mostly been driven by women across all social-economic statuses, resulting in  profound economic consequences across global households. What this ultimately results in word-of-mouth adoption, where families learn how to use Pinterest as a tool and search engine for ideas, rather than an application to connect with friends or family. As a result, Pinterest’s recommendation model is geared to advertise to women-influenced interests, which we will touch on shortly.
