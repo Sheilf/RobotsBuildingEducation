@@ -1,4 +1,6 @@
 # 2. Pinterest - On Social Networks
+The following essay describes my main investment, Pinterest, and why I believe it's an excellent investment over the next decade. In short, Pinterest is a personal media platform with some of the best customers in the social-networking space; which are women who are sharing ideas and planning activities. I believe this social network will have enormous consequences across the globe as Pinterest evolves to become a tool for families rather than an an entertainment platform. 
+
 
 ![image](https://user-images.githubusercontent.com/37036296/119455706-b6338480-bcee-11eb-9dda-664b84bb0414.png)
 
@@ -6,9 +8,9 @@
 - 2.2. Search
 - 2.3. Search Engine Optimization
 
-There is a distinction between social media platforms and personal media platforms. One could imagine that this relationship is somewhat of a spectrum, where Twitter is closer to the end of social media, while platforms like Pinterest sit on the opposite end in the personal media space.
+There is an important distinction between social media platforms and personal media platforms that needs to be understood. One could imagine that this relationship is somewhat of a spectrum, where Twitter or TikTok are closer to the end of social media, while platforms like Pinterest sit on the opposite end in the personal media space.
 
-A way to measure this is to monitor how users are utilizing the platform. Applications like Pinterest and Google are primarily used as search engine to find information while applications like Facebook are closer to communications and entertainment that is meant to discover information. Interestingly enough, when examined this way, one could argue that Pinterest and Twitter has achieved what Google+ had failed to accomplish in a spectacular way - a connection platform based on search, ideas, and images. 
+A way to measure this is to monitor how users are utilizing the platform. Applications like Pinterest and Google are primarily used as search engines to find information while applications like Facebook are closer to communications and entertainment that is meant to discover information. Interestingly enough, when examined this way, one could argue that Pinterest and Twitter has achieved what Google+ had failed to accomplish in a spectacular way - a connection platform based on search, ideas, and images. 
 
 It's important to understand this distinction when investing in internet forums like Facebook, Twitter, Snapchat, and future opportunities like Reddit because an investor would not want to make strong relationships between companies like Home Depot or Walmart. Sure, both organizations exist in the retailing space, but the nature of the business, its incentives, and its customers are worlds apart. 
 
@@ -17,11 +19,11 @@ Is Pinterest a social media platform or is it a search service?
 ## 3.2. Investing in Internet Forums
 Let’s keep one question in mind: Did Facebook’s implementation of a hashtag kill Twitter?
 
-What drives a social-networking site is a user’s incentive to search or discover information in that particular forum. As a result, examining social-networking sites can be a lot like comparing shopping centers, such that a shopper is incentivized to go to a location for a particular reason that is served by that institution. Pinterest uses pins, Reddit uses subreddits, and Google uses links - all having unique advantages as a means to distribute information.
+What drives a social-networking site is a user’s incentive to search or discover information in that particular forum. As a result, examining social-networking sites can be a lot like comparing shopping centers, such that a shopper is incentivized to go to a location for a particular reason that is best served by that institution. Pinterest uses pins, Reddit uses subreddits, and Google uses links - all having unique advantages as a means to distribute information.
 
 ![image](https://user-images.githubusercontent.com/37036296/119455311-53da8400-bcee-11eb-8ea4-d538be6f29d2.png)
 
-The forum may take on a different medium, but it is ultimately a forum none the less. If we try to categorize it rough a forum's shopping center would look like this:
+The forum may take on a different medium, but it is ultimately a forum none the less. If we try to categorize it roughly, a forum's shopping center would look like this:
 - Google is fueled by user’s need for answered information.
 - Facebook is fueled by a user’s need to connect.
 - Pinterest is fueled by a user’s need for ideas.
