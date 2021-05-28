@@ -9,8 +9,9 @@
 
 ### Chapter 3 - Square and the Digital Bank
 1. The Fundamental Constraint
-2. The Underbanked
-3. Equitable Banking
+2. Bitcoin Markets
+3. The Underbanked
+4. Equitable Markets
 
 ### Chapter 4 - Autodesk and the Digital Artist
 1. The Employment Problem
