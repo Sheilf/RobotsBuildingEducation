@@ -1,5 +1,7 @@
 ![image](https://user-images.githubusercontent.com/37036296/119943319-bd090400-bf47-11eb-9121-ffdbae8e5be6.png)
 
+Warren Buffet's Portfolio, Chairman of Berkshire Hathaway.
+
 ### Get Started
 Watch this tiktok about this document: [Your First Stock](https://www.tiktok.com/@robotsbuildingeducation/video/6963510605131123973?lang=en&is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=6939698639334819333)
 This document attempts to describe a system that:
@@ -47,9 +49,7 @@ It is the nature of feeling uncertainty to ask many questions as a means to gain
 
 You are young. So take your time. Time will always be your most valuable asset, so use it and spend it wisely. 
 
-My $720 setup is as follows, with each stock written about at length in my profile.
+This is my current setup using this system, after modifying for knowledge and experience, of which I write about each investment in great detail.
 
-- $120 cash (waiting to invest in MOD Pizza and Impossible Foods)
-- $120 split up into 30 sector-targeted stocks/ETFs
-- $120 per asset (Autodesk, KSU, Pinterest, Square)
+![image](https://user-images.githubusercontent.com/37036296/119456451-88027480-bcef-11eb-8a70-f57cbdb8b535.png)
 
