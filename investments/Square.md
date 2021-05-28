@@ -1,5 +1,6 @@
 # Chapter 3
 # Square and the Digital Bank
+![image](https://user-images.githubusercontent.com/37036296/119944791-8e8c2880-bf49-11eb-86c5-d7639efc82a0.png)
 
 - 3.1 The Fundamental Constraint
 - 3.2 Bitcoin Markets
