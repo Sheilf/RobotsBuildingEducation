@@ -1,10 +1,10 @@
 # Chapter 3
 # Square and the Digital Bank
 
-3.1 - The Fundamental Constraint
-3.2 - Bitcoin Markets
-3.3 - The Underbanked
-3.4 - Equitable Markets
+- 3.1 The Fundamental Constraint
+- 3.2 Bitcoin Markets
+- 3.3 The Underbanked
+- 3.4 Equitable Markets
 
 ### Introduction
 
