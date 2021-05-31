@@ -1,7 +1,6 @@
-Essay is under construction. Currently 4.5% of my holdings. Follow on tiktok for updates.
-
-Essay is under construction. Essay on Arts and Technology.
-Currently 4.5% of my holdings.
-Follow on tiktok for updates.
+- Essay is under construction.
+- Essay on Arts and Infrastructure.
+- Currently 4.5% of my holdings.
+- Follow on tiktok for updates.
 
 ![image](https://user-images.githubusercontent.com/37036296/119456451-88027480-bcef-11eb-8a70-f57cbdb8b535.png)
