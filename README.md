@@ -1,4 +1,4 @@
-# On Investments In The Early Information Age
+# The First Generation Investor
 
 ### Chapter 1 - Purpose
 
